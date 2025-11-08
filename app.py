@@ -54,8 +54,8 @@ class_labels = ["A+", "A-", "B+", "B-", "AB+", "AB-", "O+", "O-"]
 # Email configuration (dummy data - replace with actual values)
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-SMTP_USERNAME = "dc7821836954@gmail.com"  # Replace with actual email
-SMTP_PASSWORD = "pyrdwgzsbzrzfaoc"     # Replace with actual app password
+SMTP_USERNAME = ""  # Replace with actual email
+SMTP_PASSWORD = ""     # Replace with actual app password
 
 # In-memory storage for OTPs
 otp_storage = {}
