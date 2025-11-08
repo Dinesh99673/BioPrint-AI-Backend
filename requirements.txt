@@ -1,0 +1,14 @@
+tensorflow==2.20.0
+numpy==1.26.4
+scikit-learn==1.6.1
+pandas==2.2.2
+matplotlib==3.10.0
+seaborn==0.13.2
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+pydantic[email]==2.5.0
+Pillow==10.0.0
+pyserial>=3.5
+pyfingerprint>=1.5
+opencv-python>=4.5.0
