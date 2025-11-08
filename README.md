@@ -18,7 +18,8 @@ FastAPI backend service for predicting blood group from fingerprint images using
 | VGG16         | Deep CNN        | 94.2%    | 128x128    |
 | MobileNetV2   | Lightweight CNN | 91.8%    | 128x128    |
 
-Both models are trained on 6,000+ fingerprint images and saved as `.h5` files.
+
+> ⚠️ **Important Disclaimer**: This AI system is currently in the **training and development phase**. The blood group predictions provided are **experimental and should not be used as the sole basis for medical decisions**. Always verify results with standard laboratory testing methods. The accuracy rates mentioned are based on limited training data and may vary in real-world scenarios. This system is intended for research and educational purposes only.
 
 ## 📁 Project Structure
 
